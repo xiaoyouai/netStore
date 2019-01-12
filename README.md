@@ -9,7 +9,9 @@
 npm install
 
 # serve with hot reload at localhost:8080
-npm run dev
+首先打开mongodb服务，然后进入server目录下，运行node bin/www，运行express
+
+然后npm run dev
 
 # build for production with minification
 npm run build
